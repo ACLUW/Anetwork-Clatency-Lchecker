@@ -1,0 +1,3 @@
+2025-03-16 18:46:27,555 - Server 8.8.8.8 responded in 44.72 ms.
+2025-03-16 18:46:27,590 - Server 1.1.1.1 responded in 34.78 ms.
+2025-03-16 18:46:27,625 - Server 8.8.4.4 responded in 33.87 ms.
